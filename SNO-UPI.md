@@ -328,7 +328,7 @@ crictl ps
 ss -tulnp | grep 6443
 ```
 
-8. Changing /etc/hosts in harbor VM
+8. Adding hostnames in /etc/hosts in harbor VM
 
 ```bash
 <SNO-IP> api.sno.lab.local
